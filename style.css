@@ -1,0 +1,78 @@
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 165px;
+    margin-right: 119px;
+    margin-top: 124px;
+    height: 524.31px;
+}
+  
+  h1{
+    font-size: 36px;
+    width: 540px;
+    height: 48px;
+    color: #091133;
+  }
+
+  .p1{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #6F7CB2;
+  }
+
+  h2{
+    font-size: 16px;
+    color: #091133;
+  }
+
+  .p2{
+    font-size: 12px;
+    color: #5D6970;
+  }
+
+  #primeiro{
+    width: 540px;
+    height: 204px;
+    margin-top: 16px;
+  }
+
+  #segundo{
+    width: 255px;
+    height: 138px;
+  }
+
+  #terceiro{
+    width: 255px;
+    height: 138px;
+  }
+
+.boxes{
+    display: flex;
+    margin-top: 80px;
+    gap: 20px;
+}
+
+.box{
+    padding: 20px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.girl{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
