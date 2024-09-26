@@ -68,6 +68,7 @@
 .girl{
     display: flex;
     justify-content: center;
+    height: 70vh;
 }
 
 
